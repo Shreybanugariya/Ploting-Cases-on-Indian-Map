@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <style>
+     
+    #map{
+        width: 100vw;
+        height: 100vh;
+    }
+
+  </style> 
+    <title>Map of Infected Cases</title>
+</head>
+
+<body>
+ 
+  <div id="map"></div>
+   
+</body>
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1Ijoic2hyZXliYW51Z2FyaWEiLCJhIjoiY2thOXozNDJjMG5uOTJ2czlyZzh3NTRuNCJ9.6ul3RM8qhod95539cFynNw';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/dark-v10',
+    zoom: 1,
+    center : [20,70]
+  });
+</script>
+
+
+<script src="deaths.js"></script>
+</html>

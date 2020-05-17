@@ -1,0 +1,311 @@
+{
+  "data": [ 
+
+   {
+     "id": "1",
+     "name": "Andaman and Nicobar Islands",
+     "Infected": "33",
+     "Recovered": "33",
+     "Deaths": "0",
+     "Latitude": "11.66702557",
+     "Longitude": "92.73598262"
+   },
+   {
+     "id": "2",
+     "name": "Andhra Pradesh",
+     "Infected": "2137",
+     "Recovered": "1142",
+     "Deaths": "47",
+     "Latitude": "14.7504291",
+     "Longitude": "78.57002559"
+   },
+   {
+     "id": "3",
+     "name": "Arunachal Pradesh",
+     "Infected": "1",
+     "Recovered": "1",
+     "Deaths": "0",
+     "Latitude": "27.10039878",
+     "Longitude": "93.61660071"
+   },
+   {
+     "id": "4",
+     "name": "Assam",
+     "Infected": "80",
+     "Recovered": "39",
+     "Deaths": "2",
+     "Latitude": "26.7499809",
+     "Longitude": "94.21666744"
+   },
+   {
+     "id": "5",
+     "name": "Bihar",
+     "Infected": "940",
+     "Recovered": "388",
+     "Deaths": "7",
+     "Latitude": "25.78541445",
+     "Longitude": "87.4799727"
+   },
+   {
+     "id": "6",
+     "name": "Chandigarh",
+     "Infected": "187",
+     "Recovered": "28",
+     "Deaths": "3",
+     "Latitude": "30.71999697",
+     "Longitude": "76.78000565"
+   },
+   {
+     "id": "7",
+     "name": "Chhattisgarh",
+     "Infected": "59",
+     "Recovered": "55",
+     "Deaths": "0",
+     "Latitude": "22.09042035",
+     "Longitude": "82.15998734"
+   },
+   {
+     "id": "8",
+     "name": "Dadar Nagar Haveli",
+     "Infected": "1",
+     "Recovered": "0",
+     "Deaths": "0",
+     "Latitude": "20.26657819",
+     "Longitude": "73.0166178"
+   },
+   {
+     "id": "9",
+     "name": "Delhi",
+     "Infected": "7998",
+     "Recovered": "2858",
+     "Deaths": "106",
+     "Latitude": "28.6699929",
+     "Longitude": "77.23000403"
+   },
+   {
+     "id": "10",
+     "name": "Goa",
+     "Infected": "7",
+     "Recovered": "7",
+     "Deaths": "0",
+     "Latitude": "15.491997",
+     "Longitude": "73.81800065"
+   },
+   {
+     "id": "11",
+     "name": "Gujarat",
+     "Infected": "9267",
+     "Recovered": "3562",
+     "Deaths": "566",
+     "Latitude": "22.309425",
+     "Longitude": "72.13623"
+   },
+   {
+     "id": "12",
+     "name": "Haryana",
+     "Infected": "793",
+     "Recovered": "418",
+     "Deaths": "11",
+     "Latitude": "28.45000633",
+     "Longitude": "77.01999101"
+   },
+   {
+     "id": "13",
+     "name": "Himachal Pradesh",
+     "Infected": "66",
+     "Recovered": "39",
+     "Deaths": "2",
+     "Latitude": "31.10002545",
+     "Longitude": "77.16659704"
+   },
+   {
+     "id": "14",
+     "name": "Jammu and Kashmir",
+     "Infected": "971",
+     "Recovered": "466",
+     "Deaths": "11",
+     "Latitude": "33.45",
+     "Longitude": "76.24"
+   },
+   {
+     "id": "15",
+     "name": "Jharkhand",
+     "Infected": "173",
+     "Recovered": "79",
+     "Deaths": "3",
+     "Latitude": "23.80039349",
+     "Longitude": "86.41998572"
+   },
+   {
+     "id": "16",
+     "name": "Karnataka",
+     "Infected": "959",
+     "Recovered": "451",
+     "Deaths": "33",
+     "Latitude": "12.57038129",
+     "Longitude": "76.91999711"
+   },
+   {
+     "id": "17",
+     "name": "Kerala",
+     "Infected": "534",
+     "Recovered": "490",
+     "Deaths": "4",
+     "Latitude": "8.900372741",
+     "Longitude": "76.56999263"
+   },
+   {
+     "id": "18",
+     "name": "Ladakh",
+     "Infected": "43",
+     "Recovered": "22",
+     "Deaths": "0",
+     "Latitude": "34.1",
+     "Longitude": "77.34"
+   },
+   {
+     "id": "19",
+     "name": "Madhya Pradesh",
+     "Infected": "4173",
+     "Recovered": "2004",
+     "Deaths": "232",
+     "Latitude": "22.9734",
+     "Longitude": "78.6569"
+   },
+   {
+     "id": "20",
+     "name": "Maharashtra",
+     "Infected": "25922",
+     "Recovered": "5547",
+     "Deaths": "975",
+     "Latitude": "19.25023195",
+     "Longitude": "73.16017493"
+   },
+   {
+     "id": "21",
+     "name": "Manipur",
+     "Infected": "2",
+     "Recovered": "2",
+     "Deaths": "0",
+     "Latitude": "24.79997072",
+     "Longitude": "93.95001705"
+   },
+   {
+     "id": "22",
+     "name": "Meghalaya",
+     "Infected": "13",
+     "Recovered": "10",
+     "Deaths": "1",
+     "Latitude": "25.57049217",
+     "Longitude": "91.8800142"
+   },
+   {
+     "id": "23",
+     "name": "Mizoram",
+     "Infected": "1",
+     "Recovered": "1",
+     "Deaths": "0",
+     "Latitude": "23.71039899",
+     "Longitude": "92.72001461"
+   },
+   {
+     "id": "24",
+     "name": "Odisha",
+     "Infected": "538",
+     "Recovered": "143",
+     "Deaths": "3",
+     "Latitude": "25.6669979",
+     "Longitude": "94.11657019"
+   },
+   {
+     "id": "25",
+     "name": "Puducherry",
+     "Infected": "13",
+     "Recovered": "9",
+     "Deaths": "1",
+     "Latitude": "19.82042971",
+     "Longitude": "85.90001746"
+   },
+   {
+     "id": "26",
+     "name": "Punjab",
+     "Infected": "1924",
+     "Recovered": "200",
+     "Deaths": "32",
+     "Latitude": "11.93499371",
+     "Longitude": "79.83000037"
+   },
+   {
+     "id": "27",
+     "name": "Rajasthan",
+     "Infected": "4328",
+     "Recovered": "2459",
+     "Deaths": "121",
+     "Latitude": "27.0238",
+     "Longitude": "74.2179"
+   },
+   {
+     "id": "28",
+     "name": "Tamil Nadu",
+     "Infected": "9227",
+     "Recovered": "2176",
+     "Deaths": "64",
+     "Latitude": "12.92038576",
+     "Longitude": "79.15004187"
+   },
+   {
+     "id": "29",
+     "name": "Telengana",
+     "Infected": "1367",
+     "Recovered": "940",
+     "Deaths": "34",
+     "Latitude": "18.1124",
+     "Longitude": "79.0193"
+   },
+   {
+     "id": "30",
+     "name": "Tripura",
+     "Infected": "155",
+     "Recovered": "16",
+     "Deaths": "0",
+     "Latitude": "23.83540428",
+     "Longitude": "91.27999914"
+   },
+   {
+     "id": "31",
+     "name": "Uttarakhand",
+     "Infected": "72",
+     "Recovered": "46",
+     "Deaths": "1",
+     "Latitude": "30.32040895",
+     "Longitude": "78.05000565"
+   },
+   {
+     "id": "32",
+     "name": "Uttar Pradesh",
+     "Infected": "3729",
+     "Recovered": "1902",
+     "Deaths": "83",
+     "Latitude": "27.59998069",
+     "Longitude": "78.05000565"
+   },
+   {
+     "id": "33",
+     "name": "West Bengal",
+     "Infected": "2290",
+     "Recovered": "702",
+     "Deaths": "207",
+     "Latitude": "22.58039044",
+     "Longitude": "88.32994665"
+   },
+   {
+     "id": "Total number of confirmed cases in India",
+     "name": "",
+     "Infected": "78003#",
+     "Recovered": "26235",
+     "Deaths": "2549",
+     "Latitude": "",
+     "Longitude": ""
+   }
+  ]
+}

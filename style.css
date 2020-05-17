@@ -1,0 +1,107 @@
+*{
+  box-sizing: border-box;
+}
+
+/* ************************About me CSS********************* */
+.card-container{
+  width: 900px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  box-shadow: 12px 10px 30px 20px rgba(69,90,100,0.08);
+  padding-top: 450 px;
+  margin: 100px auto;
+}
+
+.card-container .left{
+  width: 300px;
+  background: linear-gradient(to right, #01a9ac, #01dbdf);
+  padding: 30px 25px;
+  border-top-left-radius: 5px;
+  border-top-left-radius: 5px;
+  text-align: center;
+  color: #fff;
+  display: absolute;
+}
+
+.card-container .left img{
+  margin-bottom: 10px;
+  border-radius: 6px;
+  
+}
+
+.card-container .left h4{
+  margin-bottom: 10px;
+}
+
+.card-container .left p{
+  font-size: 12px;
+  color: #fff;
+}
+
+
+.card-container .right{
+   width: 700px;
+   background: #fff;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+   padding: 30px 25px;
+   border-bottom: 1px solid #e0e0e0;
+}
+.card-container .right .info,
+.card-container .projects{
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #e0e0e0;
+  
+}
+.card-container .right .info{  
+  
+}
+.card-container .right .info >h3 >p,
+.card-container .projects >h4{
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #e0e0e0;
+  color: #353c4e;
+  text-transform: uppercase;
+  display: flex;
+}
+
+.login-nav{
+  background-color: tomato;
+}
+
+.login_box{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 200px;
+  background-color: ;
+  height: 800px;
+}
+
+.map-container{
+  width: 900px;
+  
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  box-shadow: 20px 18px 38px 28px rgba(0, 0, 0, 0.205);
+  padding-top: 450 px;
+  margin: 100px auto;
+}
+/* ******************************************** */
+.map{
+  width: 1000px;
+  color: #01dbdf;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  box-shadow: 50px 48px 56px 58px rgba(0, 0, 0, 0.205);
+  padding-top: 450 px;
+  margin: 100px auto;
+}

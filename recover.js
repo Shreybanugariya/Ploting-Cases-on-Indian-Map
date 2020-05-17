@@ -1,0 +1,36 @@
+function updateMap()
+{
+  fetch("India.json")
+  .then(Response => Response.json())
+  .then(Response => {
+    console.log(Response.data)
+    Response.data.forEach(element => {
+      Latitude = element.Latitude;
+      Longitude = element.Longitude;
+
+      // cases =  element.Infected;
+      // if (cases>1){
+      //   color = "rgb(100, 0, 0)";
+      // }
+      // else{
+      //   color = `rgb(${cases}, 0, 0)`;
+      // }
+
+      // Infect = element.Infected;
+      //   color = `rgb(0, 0, ${Infect})`;
+
+      Recov = element.Recovered;
+      color =  `rgb(0,${Recov},0 )`;
+      
+      // Marking on MAP
+       new mapboxgl.Marker({
+        draggable: false,
+        color: color
+        })
+        .setLngLat([Longitude, Latitude])
+        .addTo(map);
+    });
+  })
+}
+
+updateMap();
